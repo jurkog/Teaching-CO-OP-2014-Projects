@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatingProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatingProgram_jar</output-path>
+    <root id="archive" name="DatingProgram.jar">
+      <element id="module-output" name="DatingProgram" />
+    </root>
+  </artifact>
+</component>
