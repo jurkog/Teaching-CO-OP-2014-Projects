@@ -3,7 +3,9 @@ Being the teaching assistant for Mr. Rocky Ieraci (Head Comp Sci teacher at Holy
 
 ## DatingProgram
 `create`: Input a dating entry (The user has to answer 20 questions based on their preference and opinion)
+
 `display`: Displays a list of entrys in a fancy GUI and then allows you to compare each one's compatibility
+
 `delete`: Incase we ever want to delete a dating entry, we can do that here, also in a GUI.
 
 ## TicTacToe
